@@ -1,0 +1,50 @@
+*{
+    font-family: "Roboto";
+}
+.bg-container{
+   
+    background-image: url(./static/food.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.log-in-card{
+    background-color: #ffffff;
+    background-size: cover;
+    width: 60vh;
+    height: 96vh;
+    border-radius: 20px;
+    margin: 20px 0px 0px 90px;
+    padding: 40px;
+}
+.login-card-heading{
+    font-weight: bold;
+    text-align: center;
+}
+.text-box{
+    width: 370px;
+    height: 40px;
+    border-width: 1px;
+    margin-top: -100px;
+    border-color: rgb(170, 170, 170);
+    border-radius: 8px
+}
+.login-card-text{
+    font-size: 20px;
+}
+.button{
+    margin-top: 20px;
+    color: #ffffff;
+    background-color:rgb(72, 189, 97);
+}
+.center-text{
+    margin-top: 10px;
+    text-align: center;
+}
+.phbutton{
+    background-color: rgb(189, 189, 189);
+}
+.fbbutton{
+    margin-top: 20px;
+    background-color: #3b5998;
+    color: cornsilk;
+}
